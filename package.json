@@ -1,0 +1,23 @@
+{
+  "name": "pms",
+  "version": "1.0.0",
+  "description": "This is a Package Management System Backend API",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon server/app.js"
+  },
+  "author": "kevochanda",
+  "license": "MIT",
+  "private": false,
+  "devDependencies": {
+    "dotenv": "^10.0.0",
+    "nodemon": "^2.0.12"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "mongo-db": "^1.0.2",
+    "mongoose": "^5.13.2"
+  }
+}
