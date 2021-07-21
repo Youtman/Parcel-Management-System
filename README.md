@@ -1,6 +1,6 @@
 # client
 
-Parcel Management System made with Vue.js, Mongodb, Express and Node.js
+Parcel Management System made with Vue.js, Mongodb, Express and Node.js. Based on the MVP Architecture.
 
 ## Project setup
 
